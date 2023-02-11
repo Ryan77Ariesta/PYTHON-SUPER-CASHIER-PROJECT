@@ -1,4 +1,8 @@
 # PYTHON-SUPER-CASHIER-PROJECTPYTHON-SUPER-CASHIER-PROJECT
+
+Please check my medium to see detail
+https://medium.com/@ryan77ariesta/python-super-cashier-project-fb4194f994ef
+
 1.Latar belakang project
 super cashier adalah sistem kasir dari sebuah supermarket yang dirancang untuk mempermudah transaksi di dalam supermarket tersebut. sistem ini dirancang agar konsumen dapat menginputkan secara mandiri produk yang ingin dibelinya. Sistem ini membebaskan konsumen untuk menginput data item yang ingin dibeli, kuantitas item, dan harga per item yang ingin dibeli. Selain itu, konsumen juga dapat melakukan perubahan , menghapus atau dapat me-reset secara keseluruhan data transaksi yang telah dibuat jika diinginkan. Kemudian, konsumen dapat menampilkan data order yang sebelumnya telah di-input dan menampilkan total harga dari semua item yang dipilih.
 
